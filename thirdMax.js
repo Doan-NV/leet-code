@@ -20,7 +20,7 @@ var thirdMax = function(nums) {
         }
     }
     for (let index = 0; index < nums.length; index++) {
-        const element = nums[index];
+        const element = nums[index];kWeakestRows
         if(element < max2 && element > max3) {
             max3 = element;
         }
