@@ -19,3 +19,5 @@ public class findFinalValue {
         System.out.println(s.findFinal(nums, original));
     }
 }
+
+// this is all leetcode problem i was solved in java
